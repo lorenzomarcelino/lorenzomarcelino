@@ -13,6 +13,6 @@ For more information look at my linkedin page, and if you need send me an email,
   <a href="https://github.com/lorenzomarcelino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenzomarcelino&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzomarcelino&layout=compact&langs_count=7&theme=prussian"/>
-    
-  ![Snake animation](https://github.com/lorenzomarcelino/lorenzomarcelino/blob/output/github-contribution-grid-snake.svg)
 <div>
+
+  ![Snake animation](https://github.com/lorenzomarcelino/lorenzomarcelino/blob/output/github-contribution-grid-snake.svg)
