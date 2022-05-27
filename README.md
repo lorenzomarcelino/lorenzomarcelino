@@ -1,4 +1,4 @@
-### Hello! My name is Lorenzo Marcelin
+### Hello! My name is Lorenzo Marcelino
 
 I am a Computer Science Undergraduate at CESAR School and study economics on my own for personal interest.
 
