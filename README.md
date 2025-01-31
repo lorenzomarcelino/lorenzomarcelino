@@ -12,6 +12,5 @@ For more information look at my linkedin page, and if you need send me an email,
 <br>
 <div align="center">
   <a href="https://github.com/lorenzomarcelino">
-  <img width="43%" src="https://github-readme-stats.vercel.app/api?username=Lorenzomarcelino&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenzomarcelino&layout=compact&langs_count=7&theme=prussian"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenzomarcelino&layout=compact&langs_count=7&theme=prussian"/>
 <div>
